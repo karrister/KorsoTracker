@@ -1,4 +1,4 @@
-update=18/04/2015 19:27:29
+update=19/04/2015 01:54:44
 version=1
 last_client=eeschema
 [cvpcb]
@@ -85,3 +85,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/libs/remote_bt_shutter-cache
+LibName32=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/libs/imx23_phone-cache
