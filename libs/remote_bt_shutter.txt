@@ -1,0 +1,5 @@
+I am using this remote_bt_shutter library to get the pic18f14k50 part.
+
+I have taken this version of the lib from another project of mine (still to be published in github some day maybe).
+
+Feel free to use the parts.
