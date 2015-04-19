@@ -31,13 +31,13 @@ LIBS:contrib
 LIBS:valves
 LIBS:remote_bt_shutter-cache
 LIBS:imx23_phone-cache
-LIBS:korsotracker-cache
+LIBS:yaatracker-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "KorsoTracker, ham radio APRS tracker"
+Title "YAAT, an APRS Tracker"
 Date "18 apr 2015"
 Rev ""
 Comp ""

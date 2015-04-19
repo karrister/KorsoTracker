@@ -1,4 +1,4 @@
-korsotracker
+YAAT, an APRS Tracker
 =============
 
 This project is the HW design (PCB) for a ham radio APRS tracker. It takes input from GPS through UART, parsing the NMEA packets with location and speed info, making them into AX.25 frames and then converting that to physical layer data (analogic sound - at 1200 and 2200 khz).
