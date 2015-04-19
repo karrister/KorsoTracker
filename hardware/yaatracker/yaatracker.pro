@@ -84,5 +84,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/libs/remote_bt_shutter-cache
-LibName32=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/libs/imx23_phone-cache
+LibName31=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/hardware/libs/remote_bt_shutter-cache
+LibName32=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/hardware/libs/imx23_phone-cache
