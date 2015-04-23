@@ -1,6 +1,6 @@
-update=19/04/2015 01:54:44
+update=24/04/2015 02:53:38
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -43,8 +43,6 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -86,3 +84,5 @@ LibName29=contrib
 LibName30=valves
 LibName31=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/hardware/libs/remote_bt_shutter-cache
 LibName32=C:/Karrin/projects/korsotracker/pcb/KorsoTracker/hardware/libs/imx23_phone-cache
+[general]
+version=1
