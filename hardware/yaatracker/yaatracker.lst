@@ -1,4 +1,4 @@
-eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/04/2015 02:52:59
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/04/2015 15:57:29
 #Cmp ( order = Reference )
 | C1         15pF        
 | C2         15pF        
@@ -34,6 +34,7 @@ eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/04/2015 02:52:59
 | P14        R_VCC       
 | P15        GPS_DE9     
 | P16        RADIO_DE9   
+| P17        SW5         
 | Q1         DMP1045U    
 | R1         60          
 | R2         60          
@@ -95,6 +96,7 @@ eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/04/2015 02:52:59
 | R_VCC        P14       
 | GPS_DE9      P15       
 | RADIO_DE9    P16       
+| SW5          P17       
 | TP_URX       P1        
 | TP_UTX       P3        
 | TON2         P4        
