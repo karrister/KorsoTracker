@@ -38,7 +38,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "YAAT, an APRS Tracker"
-Date "20 apr 2015"
+Date "24 apr 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1339,4 +1339,8 @@ Wire Wire Line
 	10950 4750 10950 4850
 Wire Wire Line
 	800  2800 10600 2800
+Wire Wire Line
+	8600 2800 8600 1900
+Connection ~ 8600 1900
+Connection ~ 8600 2800
 $EndSCHEMATC
